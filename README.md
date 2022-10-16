@@ -1,4 +1,4 @@
-<h1 align="center"> Encrypt Ascii Code</h1>
+<h1 align="center"> Ascii Translator</h1>
 
 <p align="center">
 The goal is take a word/string as an input from the user, convert it into the ASCII code, perform an encryption on that ASCII code, and reconvert it into a string.
